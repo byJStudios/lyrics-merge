@@ -1,0 +1,5 @@
+mutagen>=1.47
+Pillow>=10.0
+numpy>=1.26
+matplotlib>=3.8
+tkinterdnd2>=0.4.2
